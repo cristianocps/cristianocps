@@ -1,4 +1,4 @@
-### Hi there 👋, Cristiano Souza
+### Hi there 👋, i'm Cristiano Souza
 #### A passionate software architect from São Paulo, Brazil
 I'm a developer with almost 19 years of experience, currently working in Brazil, i love to build new things and try new tools and languages.
 Over the last 8 years i've been working as Software Architect and currently acting as Head of Architecture.
