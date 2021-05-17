@@ -10,8 +10,8 @@ Skills: .NET,C#,SQL,NOSQL,CLEAN ARCH, DEVOPS, AWS, AZURE, GCP, PYTHON, REACT, FL
 
 - 🔭 I’m currently working on AP Interactive (https://apinteractive.com.br) and learning how to be a good father, my son will come in sep/21 
 - 🌱 I’m currently learning Machine Learning, Unit Game Engine 
-- 👯 I’m looking to collaborate on New web technologies projects 
-- 🤔 I’m looking for help with Machine learning/Unit 
+- 👯 I’m looking to collaborate on new web technologies projects 
+- 🤔 I’m looking for help with machine learning/Unit 
 - 💬 Ask me about .NET, clean arch, design patterns, devops, azure, aws 
 - 📫 How to reach me: mail: cristianocps@gmail.com fb: http://facebook.com/criscps 
 
