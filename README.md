@@ -6,7 +6,7 @@ Nowadays i'm focusing on machine learning techniques and content production to h
 Be free to contact me in any of the channels listed here :)
 
 
-Skills: .NET,C#,SQL,NOSQL,CLEAN ARCH, DEVOPS, AWS, AZURE, GCP, PYTHON, REACT, FLUTTER, PHP
+Skills: .NET,C#,SQL,NOSQL, DEVOPS, AWS, AZURE, GCP, PYTHON, REACT, FLUTTER, PHP
 
 - 🔭 I’m currently working on AP Interactive (https://www.apinteractive.com.br) and learning how to be a good father
 - 🌱 I’m currently learning Machine Learning, Unit Game Engine 
