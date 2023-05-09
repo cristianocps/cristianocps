@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm Cristiano Souza
 #### A passionate software architect from São Paulo, Brazil
 I'm a developer with almost 19 years of experience, currently working in Brazil, i love to build new things and try new tools and languages.
-Over the last 8 years i've been working as Software Architect and currently acting as Head of Architecture.
+Over the last 8 years i've been working as Software Architect and currently i'm CTO at AP DIGITAL SERVICES.
 Nowadays i'm focusing on machine learning techniques and content production to help newbies in my country.
 Be free to contact me in any of the channels listed here :)
 
@@ -9,7 +9,7 @@ Be free to contact me in any of the channels listed here :)
 Skills: .NET,C#,SQL,NOSQL, DEVOPS, AWS, AZURE, GCP, PYTHON, REACT, FLUTTER, PHP
 
 - 🔭 I’m currently working on AP Interactive (https://www.apinteractive.com.br) and learning how to be a good father
-- 🌱 I’m currently learning Machine Learning, Unit Game Engine 
+- 🌱 I’m currently learning Machine Learning, Godot and Unit Game Engine 
 - 👯 I’m looking to collaborate on new web technologies projects 
 - 🤔 I’m looking for help with machine learning/Unit 
 - 💬 Ask me about .NET, clean arch, design patterns, devops, azure, aws 
