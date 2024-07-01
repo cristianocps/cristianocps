@@ -8,10 +8,9 @@ Be free to contact me in any of the channels listed here :)
 
 Skills: .NET,C#,SQL,NOSQL, DEVOPS, AWS, AZURE, GCP, PYTHON, REACT, FLUTTER, PHP
 
-- 🔭 I’m currently working on AP Interactive (https://www.apinteractive.com.br) and learning how to be a good father
+- 🔭 I’m currently working as CTO at AP Digital Services (https://www.apdigitalservices.com.br)
 - 🌱 I’m currently learning Machine Learning, Godot and Unit Game Engine 
 - 👯 I’m looking to collaborate on new web technologies projects 
-- 🤔 I’m looking for help with machine learning/Unit 
 - 💬 Ask me about .NET, clean arch, design patterns, devops, azure, aws 
 - 📫 How to reach me: 
   - mail: cristianocps@gmail.com 
