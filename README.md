@@ -6,7 +6,7 @@ Nowadays i'm focusing on machine learning techniques and content production to h
 Be free to contact me in any of the channels listed here :)
 
 
-Skills: .NET,C#,SQL,NOSQL, DEVOPS, AWS, AZURE, GCP, PYTHON, REACT, FLUTTER, PHP
+Skills: .NET,C#,NODE,SQL,NOSQL,DEVOPS,AWS,AZURE,GCP,PYTHON,REACT,ANGULAR,FLUTTER,PHP
 
 - 🔭 I’m currently working as CTO at AP Digital Services (https://www.apdigitalservices.com.br)
 - 🌱 I’m currently learning Machine Learning, Godot and Unit Game Engine 
